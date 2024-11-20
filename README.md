@@ -4,7 +4,7 @@
 ## Table of content
 1. [Introduction](#Introduction)
 2. [ProblemStatement](#ProblemStatement)
-3. [Skillsandconceptincorporated](#Skillsandconceptincorporated)
+3. [Skills](#Skills)
 4. [Modelling](#Modelling)
 5. [Visualization](#Visualization)
 6. [Analysis](#Analysis)
@@ -17,12 +17,12 @@ This project showcases a comprehensive Power BI dashboard analyzing British Airw
 
 This dashboard can be useful for understanding customer behavior, optimizing service offerings, and making data-driven decisions to enhance the travel experience.
 
-## Problem Statement
+## ProblemStatement
 - Analyze passenger trends
 - Flight Preference
 - Satisfaction Level
 
-## Skills and concept incorporated
+## Skills
 - Data Normalization 
 - DAX
 - Quick Measures
