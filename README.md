@@ -1,6 +1,16 @@
-# British-Airway-Analysis
+
 ![Introduction image](https://github.com/Boluyimika/British-Airway-Analysis/blob/main/introduction.png)
 ---
+## Table of content
+1. [Introduction](#Introduction)
+2. [ProblemStatement](#ProblemStatement)
+3. [Skillsandconceptincorporated](#Skillsandconceptincorporated)
+4. [Modelling](#Modelling)
+5. [Visualization](#Visualization)
+6. [Analysis](#Analysis)
+7. [Recommendations](#Recommendations)
+8. [Conclusion](#Conclusion)
+
 
 ## Introduction
 This project showcases a comprehensive Power BI dashboard analyzing British Airways passenger data. The dashboard provides insights into *passenger distribution by travel class, routes, traveler type, and verification status* across multiple countries. Key metrics include total passengers, seat type preferences, and customer travel trends, offering a clear overview for stakeholders to understand passenger demographics and preferences.
@@ -35,7 +45,7 @@ you can interact with the dashboard [here] (https://app.powerbi.com/groups/me/re
 - Travel Route by Status and Country: A chart at the bottom right categorizes routes by country and verification status.
 
 
-## Recommendation
+## Recommendations
 1. Optimize Resource Allocation by Travel Class
 Recommendation: Adjust the seating configuration on high-demand routes to better match passenger preferences. For example, if Economy Class consistently has the highest demand, allocate more seats to this class on popular routes.
 Benefit: This will help meet passenger demand more effectively and improve customer satisfaction by reducing overbooking or seat shortages in popular classes.
